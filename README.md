@@ -1,5 +1,6 @@
 ## Pneumonia detection method based on improved Inception-v3 network
-https://dbsz.cbpt.cnki.net/WKH/WebPublication/paperDigest.aspx?paperID=4b9b857f-9b91-49be-a292-810e4b901088
+DOI: 10.16163/j.cnki.dslkxb202303310001
+https://kns.cnki.net/kcms2/article/abstract?v=0-LBHIej7QmlS-YbT50bEH2iNjemGAZLwGk5LEhOIyXVxlzlPBuQmwc_oVK4dAG9N4HijYkUQMY_LjgbMeHfNEhu7wcM2dby6zUorXeviYVJqurTqm9F8STNa40bv4mZUPiukVdDp0sNJzMrEWBqvgbYxK1sdHPKbZSUfZ1y5G9syasBjy2Uo7LzQQ6G3tAW&uniplatform=NZKPT&language=CHS
 
 An Improved InceptionV3 Network for Pneumonia Detection, incorporating a Spatial Attention (SA) module to introduce both spatial and channel attention. This approach utilizes grouped convolutions and channel shuffling to reduce the number of network parameters while minimizing the negative impact on network performance.
 <p align="center">
